@@ -1,3 +1,5 @@
 <template>
-  <p class="text-red-200">Hellooooo!</p>
+  <router-view />
 </template>
+
+<script setup></script>

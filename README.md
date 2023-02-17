@@ -1,6 +1,6 @@
 # Machine Design Calculation
 
-This is a personal project to convert the excel files of Machine Design Calculation in to Web Application
+This is a personal project to convert the excel file of Machine Design Calculation into Web Application
 - You can find the excel file [here](https://docs.google.com/spreadsheets/d/1s6IUrxWIb96mzlL_YEGptESeOjaCpHx2/edit?usp=sharing&ouid=109989376213193739223&rtpof=true&sd=true)
 
 ## About the Excel Files
